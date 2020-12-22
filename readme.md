@@ -12,5 +12,10 @@ Dependencies: PIL, PyQt5
 <img src="image/gui.jpg">
 
 
-Just clone, install deps with "pip install" and run pic_shrink.py 
+
 Ready to use executables for Linux and Windows in the release section.
+
+Or clone, install deps with "pip install" and run pic_shrink.py 
+
+
+
