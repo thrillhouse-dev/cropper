@@ -1,5 +1,5 @@
 # Pic-Shrink
-Little application that will shrink a list of given jpg files to a desired size, set by user. It's made with Python and PyQt5
+Application that will shrink a list of given jpg files to a desired size, set by user. It's built with Python and PyQt5
 
 1. Select jpg files in FileDialog
 
@@ -13,3 +13,4 @@ Dependencies: PIL, PyQt5
 
 
 Just clone, install deps with "pip install" and run pic_shrink.py 
+Ready to use executables for Linux and Windows in the release section.
