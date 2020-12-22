@@ -51,8 +51,7 @@ def compression():
     UI.progressBar.setValue(0)
     to_go = len(FILE_NAMES)  # number of files we want shrink.
     progr = 100 / to_go  # assign the progress after each file in percent to the  progressbar
-    # progress,Initial value 1 to reach 100 in any case(rounding issues)
-    completed = 1
+    completed = progr    # progress,Initial value for the progress bar
 
     global choice
     choice = 0
